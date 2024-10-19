@@ -11,7 +11,7 @@ Features:
 Tech Stack:
 
     Frontend: HTML5, CSS3, JavaScript
-    Backend: Node.js, Express (optional based on your setup)
+    Backend: Node.js, 
     Tools: Visual Studio Code, GitHub
 
 Goals:
