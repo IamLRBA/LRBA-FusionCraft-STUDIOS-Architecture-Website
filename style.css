@@ -54,22 +54,17 @@ header .menu {
 
 /* Burger Menu */
 .burger-menu {
-    display: none;
-    flex-direction: column;
+    display: none; /* Hidden by default for larger screens */
     cursor: pointer;
     transition: 0.4s ease-in-out;
-}
-
-.burger-menu span {
-    width: 25px;
-    height: 3px;
-    background-color: #fff;
-    margin: 4px 0;
-    transform: scale(1.2);
+    position: relative;
+    z-index: 102;
 }
 
 .menu {
     display: flex;
+    justify-content: flex-end;
+    gap: 20px;
 }
 
 .menu ul {
@@ -80,13 +75,14 @@ header .menu {
 
 .menu ul li a {
     color: #52391a;
+    text-decoration: none;
     transition: all 0.3s ease;
 }
 
-/* Hover effect: increase size and change color */
+/* Hover effect */
 .menu ul li a:hover {
-    transform: scale(1.2); /* Increase size by 1:2 ratio */
-    color: #e9c59d; /* Change color on hover */
+    transform: scale(1.2);
+    color: #e9c59d;
 }
 
 /* Dropdown Menu for smaller screens */
@@ -95,32 +91,40 @@ header .menu {
 }
 
 @media (max-width: 768px) {
-    .menu {
-        display: none;
-    }
-
+    /* Display the burger menu */
     .burger-menu {
         display: flex;
     }
 
+    /* Hide the menu initially */
+    .menu {
+        display: none;
+    }
+
+    /* When the burger menu is clicked */
     .menu.show {
-        position: absolute;
+        display: block;
+        position: fixed; 
         top: 60px;
         left: 0;
+        width: 100vw; 
         background-color: #000;
-        width: 100%;
         padding: 10px 0;
-        display: block;
+        text-align: center;
         z-index: 101;
     }
 
     .menu ul {
         flex-direction: column;
-        align-items: center;
+        gap: 10px;
     }
 
     .menu ul li {
         margin-bottom: 10px;
+    }
+
+    .menu ul li a {
+        color: #fff; 
     }
 }
 
@@ -333,7 +337,6 @@ header .menu {
 
 .thumbnail .item .content .description {
     font-weight: 300;
-    text-shadow
 }
 
 /* Arrows */

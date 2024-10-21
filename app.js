@@ -30,6 +30,7 @@ document.addEventListener('DOMContentLoaded', () => {
         menuItems.classList.toggle('show'); // Toggle the 'show' class to open/close menu
     });
 
+
     // Search Functionality
     const searchButton = document.querySelector('.btn');
     const searchInput = document.querySelector('.srch');
