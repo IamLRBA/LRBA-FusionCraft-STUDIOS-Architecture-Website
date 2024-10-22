@@ -3,13 +3,13 @@
 LRBA-FusionCraft-STUDIOS Architecture Website is a modern and minimalistic website designed to showcase architectural projects, concepts, and the creative vision behind FusionCraft STUDIOS. This website reflects our passion for merging imagination with structural ingenuity, providing a seamless and visually appealing user experience.
 Features:
 
--**Responsive Design**: Ensures the website is accessible and looks great on all devices.
+- **Responsive Design**: Ensures the website is accessible and looks great on all devices.
 
--**Project Portfolio**: A curated collection of architectural designs and projects, presented in a clean, easy-to-navigate layout.
+- **Project Portfolio**: A curated collection of architectural designs and projects, presented in a clean, easy-to-navigate layout.
 
--**Interactive Gallery**: High-quality images and visual content to immerse visitors in the artistry of architectural creation.
+- **Interactive Gallery**: High-quality images and visual content to immerse visitors in the artistry of architectural creation.
 
--**Contact & Inquiry Forms**: Simple ways for clients and collaborators to reach out or inquire about services.
+- **Contact & Inquiry Forms**: Simple ways for clients and collaborators to reach out or inquire about services.
 
 ## Tech Stack:
 
