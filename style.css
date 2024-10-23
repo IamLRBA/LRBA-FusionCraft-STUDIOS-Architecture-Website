@@ -286,12 +286,15 @@ header .menu {
     position: absolute;
     bottom: 50px;
     left: 50%;
-    width: max-content;
+    width: 50%;
     z-index: 100;
     display: flex;
     gap: 20px;
     cursor: grab;
     transition: .4s ease;
+    box-sizing: border-box; /* Includes padding/border in size */
+    padding: 100px 25px; /* 100px padding to the top and bottom, 25px to the left and right */
+    overflow-x: auto; /* Enables horizontal scroll */
 }
 
 .thumbnail .item {
@@ -299,7 +302,6 @@ header .menu {
     height: 220px;
     flex-shrink: 0;
     position: relative;
-    bottom: 70px;
     transition: 0.2s ease-in-out;
 }
 
@@ -333,7 +335,6 @@ header .menu {
 
 .thumbnail .item .content .description {
     font-weight: 300;
-    text-shadow
 }
 
 /* Arrows */
