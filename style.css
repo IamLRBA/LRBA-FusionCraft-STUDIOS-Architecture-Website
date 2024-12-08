@@ -400,7 +400,8 @@ body {
 .login-container {
     position: fixed; /* Fixed position to stay at the top left */
     right: 20px; /* Space from the right */
-    bottom: 500px; /* Space from the bottom */
+    bottom: 365px; /* Space from the bottom */
+    top: 50px;
     background-color: transparent; /* Ttransparent background */
     border-radius: 8px; /* Rounded corners */
     box-shadow: 0 4px 15px rgba(0, 0, 0, 0.9); /* Subtle shadow */
