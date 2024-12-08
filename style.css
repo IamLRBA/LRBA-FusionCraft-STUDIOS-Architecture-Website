@@ -208,10 +208,17 @@ header .menu {
 }
 
 .carousel .list .item .author {
+    margin-top: 20px;
+    margin-left: 100px;
+    margin-bottom: -10px;
     font-weight: bold;
     letter-spacing: 10px;
     color: #f1683aa1;
     font-size: 20px;
+}
+
+.title, .topic, .des, .buttons{
+    margin-left: 20px;
 }
 
 .carousel .list .item::after {
