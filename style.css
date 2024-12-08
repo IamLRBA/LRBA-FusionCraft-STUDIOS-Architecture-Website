@@ -299,12 +299,12 @@ header .menu {
 /* Thumbnail */
 .thumbnail {
     position: absolute;
-    bottom: 50px;
-    left: 50%;
-    width: 50%;
+    bottom: 5px;
+    left: 37%;
+    width: 62%;
     z-index: 100;
     display: flex;
-    gap: 20px;
+    gap: 30px;
     cursor: grab;
     transition: .4s ease;
     box-sizing: border-box; /* Includes padding/border in size */
@@ -312,9 +312,21 @@ header .menu {
     overflow-x: auto; /* Enables horizontal scroll */
 }
 
+.thumbnail::-webkit-scrollbar {
+    width: 3px;
+    height: 3px;
+}
+.thumbnail::-webkit-scrollbar-track {
+    background: #ffffff;
+}
+
+::-webkit-scrollbar-thumb {
+    background: #888; 
+  }
+
 .thumbnail .item {
-    width: 150px;
-    height: 220px;
+    width: 155px;
+    height: 200px;
     flex-shrink: 0;
     position: relative;
     transition: 0.2s ease-in-out;
