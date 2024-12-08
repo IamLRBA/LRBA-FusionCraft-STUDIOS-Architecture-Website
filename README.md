@@ -21,7 +21,7 @@ Features:
 
 ## Goals:
 
-- To showcase the firm's capabilities in architecture and design
+- To ably showcase the firm's capabilities in architecture and design
 - To provide a user-friendly platform for potential clients and partners
 - To represent the FusionCraft STUDIOS brand with a clean and professional interface
 
