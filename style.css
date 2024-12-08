@@ -221,6 +221,10 @@ header .menu {
     margin-left: 20px;
 }
 
+.b2 {
+    margin-left: 8px;
+}
+
 .carousel .list .item::after {
     content: '';
     width: 81px;
