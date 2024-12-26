@@ -3,7 +3,7 @@
 **LRBA-FusionCraft-STUDIOS** Architecture Website is a modern and minimalistic Architectural website designed to showcase architectural projects, concepts, and the creative vision behind FusionCraft STUDIOS all done by LRBA (Jerry Laruba Festus). This website is a reflection of our passion for merging imagination with structural ingenuity, providing a seamless and visually appealing user experience.
 Features:
 
-- **Responsive Design**: This ensures the website is accessible and looks great on all devices.
+- **Responsive Design**: This ensures the website is accessible and looks great on all devices and screen sizes.
 
 - **Project Portfolio**: A curated collection of architectural designs and projects, presented in a clean, easy-to-navigate layout.
 
