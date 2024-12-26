@@ -7,7 +7,7 @@ Features:
 
 - **Project Portfolio**: The website has a curated collection of architectural designs and projects, presented in a clean, easy-to-navigate layout.
 
-- **Interactive Gallery**: High-quality images and visual content to immerse visitors in the artistry of architectural creation.
+- **Interactive Gallery**: The website has high-quality images and visual content to immerse visitors in the artistry of architectural creation.
 
 - **Contact & Inquiry Forms**: Simple ways for clients and collaborators to reach out or inquire about services.
 
