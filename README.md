@@ -13,7 +13,7 @@ Features:
 
 ## Tech Stack:
 
-- **Frontend**: HTML5, CSS3, JavaScript
+- **Frontend**: HTML5, CSS3 and JavaScript
 
 - **Backend**: Node.js
 
