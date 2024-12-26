@@ -5,7 +5,7 @@ Features:
 
 - **Responsive Design**: This ensures the website is accessible and looks great on all devices and screen sizes.
 
-- **Project Portfolio**: A curated collection of architectural designs and projects, presented in a clean, easy-to-navigate layout.
+- **Project Portfolio**: The website has a curated collection of architectural designs and projects, presented in a clean, easy-to-navigate layout.
 
 - **Interactive Gallery**: High-quality images and visual content to immerse visitors in the artistry of architectural creation.
 
