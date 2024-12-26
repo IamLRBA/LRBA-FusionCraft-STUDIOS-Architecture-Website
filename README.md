@@ -9,7 +9,7 @@ Features:
 
 - **Interactive Gallery**: The website has high-quality images and visual content to immerse visitors in the artistry of architectural creation.
 
-- **Contact & Inquiry Forms**: Simple ways for clients and collaborators to reach out or inquire about services.
+- **Contact & Inquiry Forms**: The website provides simple ways for clients and collaborators to reach out or inquire about services.
 
 ## Tech Stack:
 
