@@ -13,11 +13,11 @@ Features a/an:
 
 ## Tech Stack:
 
-- **Frontend**: HTML5, CSS3 & JavaScript
+- **Frontend**: HTML5, CSS3 and JavaScript
 
 - **Backend**: Node.js
 
-- **Tools**: Visual Studio Code & GitHub
+- **Tools**: Visual Studio Code and GitHub
 
 ## Goals:
 
