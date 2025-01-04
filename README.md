@@ -25,4 +25,4 @@ Features a/an:
 - To provide a user-friendly platform for potential clients and partners.
 - To represent the FusionCraft STUDIOS brand with a clean and professional interface.
 
-Feel free to clone, advise, contribute, or submit issues!
+Feel free to clone, contribute, or submit issues!
