@@ -6,6 +6,7 @@ body {
     color: #eee;
     font-family: Poppins, sans-serif;
     font-size: 12px;
+    overflow: hidden;
 }
 
 a {
@@ -208,10 +209,21 @@ header .menu {
 }
 
 .carousel .list .item .author {
+    margin-top: 20px;
+    margin-left: 100px;
+    margin-bottom: -10px;
     font-weight: bold;
     letter-spacing: 10px;
     color: #f1683aa1;
     font-size: 20px;
+}
+
+.title, .topic, .des, .buttons{
+    margin-left: 20px;
+}
+
+.b2 {
+    margin-left: 8px;
 }
 
 .carousel .list .item::after {
@@ -288,12 +300,12 @@ header .menu {
 /* Thumbnail */
 .thumbnail {
     position: absolute;
-    bottom: 50px;
-    left: 50%;
-    width: 50%;
+    bottom: 5px;
+    left: 37%;
+    width: 62%;
     z-index: 100;
     display: flex;
-    gap: 20px;
+    gap: 30px;
     cursor: grab;
     transition: .4s ease;
     box-sizing: border-box; /* Includes padding/border in size */
@@ -301,9 +313,21 @@ header .menu {
     overflow-x: auto; /* Enables horizontal scroll */
 }
 
+.thumbnail::-webkit-scrollbar {
+    width: 3px;
+    height: 3px;
+}
+.thumbnail::-webkit-scrollbar-track {
+    background: #ffffff;
+}
+
+::-webkit-scrollbar-thumb {
+    background: #888; 
+  }
+
 .thumbnail .item {
-    width: 150px;
-    height: 220px;
+    width: 155px;
+    height: 200px;
     flex-shrink: 0;
     position: relative;
     transition: 0.2s ease-in-out;
@@ -389,7 +413,8 @@ body {
 .login-container {
     position: fixed; /* Fixed position to stay at the top left */
     right: 20px; /* Space from the right */
-    bottom: 500px; /* Space from the bottom */
+    bottom: 365px; /* Space from the bottom */
+    top: 50px;
     background-color: transparent; /* Ttransparent background */
     border-radius: 8px; /* Rounded corners */
     box-shadow: 0 4px 15px rgba(0, 0, 0, 0.9); /* Subtle shadow */
