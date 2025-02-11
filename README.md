@@ -4,7 +4,7 @@
 
 ## Key Features
 
-- **Responsive Design**  
+- **A Responsive Design**  
   Ensures optimal performance and aesthetics across all devices and screen sizes, providing a consistent user experience.
 
 - **Comprehensive Project Portfolio**  
